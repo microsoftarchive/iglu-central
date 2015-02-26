@@ -26,11 +26,11 @@
 			"type": "string"
 		},
 		"networkType": {
-				"enum": [ "mobile", "wifi"]
+			"enum": [ "mobile", "wifi" ]
 		},
 		"networkTechnology": {
-				"type": "string"
-    },
+			"type": "string"
+		},
 		"openIdfa": {
 			"type": "string"
 		},
